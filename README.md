@@ -1,6 +1,7 @@
 # OOP-Task-4
-In this project we managed to build a Pokemon Go Program that trys to capture as many pokemons as it can on given graph
-
+The project is about implementing a directed weithted graph and exploring some graph algorithms (online algo & server comunication).
+In the game we place several agent on a graph and their goal is to earn points by catching the random pokemons. Each pokemon has its value.
+For more information, visit the project's ReadMe tab.
 ##The Game
 
 This is the Frontend of the Project
